@@ -1,4 +1,4 @@
-版本5 尝试使用IDEA
+版本6 尝试使用IDEA第二次尝试
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
 
